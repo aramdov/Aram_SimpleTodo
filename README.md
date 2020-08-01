@@ -31,11 +31,13 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
-1. 
+1. Tutorial videos had discrepancies with the current android studio version so this brought forth compatibility issues and bugs. I had to do quite a bit of Google searching and reading Stack overflow to resolve these issues.
+
+2. It was hard to understand what Rahul was explaining, I felt he moved too fast for me to comprehensively understand the OOP design principles involved. This could just be the consequence of "fire hose learning".
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Aram Dovlatyan]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
